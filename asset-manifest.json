@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Fiverr-clone/static/css/main.9345d4a3.css",
+    "main.js": "/Fiverr-clone/static/js/main.641fbbc6.js",
+    "static/js/787.438559c0.chunk.js": "/Fiverr-clone/static/js/787.438559c0.chunk.js",
+    "index.html": "/Fiverr-clone/index.html",
+    "main.9345d4a3.css.map": "/Fiverr-clone/static/css/main.9345d4a3.css.map",
+    "main.641fbbc6.js.map": "/Fiverr-clone/static/js/main.641fbbc6.js.map",
+    "787.438559c0.chunk.js.map": "/Fiverr-clone/static/js/787.438559c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9345d4a3.css",
+    "static/js/main.641fbbc6.js"
+  ]
+}
